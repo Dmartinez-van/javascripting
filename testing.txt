@@ -1,1 +1,4 @@
 Just trying to ensure I know how to commit and push a file from my local repo to GitHub. Boo fas Baz Lorem Ipsum Boo fas Baz Lorem Ipsum Boo fas Baz Lorem Ipsum Boo fas Baz Lorem Ipsum Boo fas Baz Lorem Ipsum Boo fas Baz Lorem Ipsum Boo fas Baz Lorem Ipsum.
+
+
+And now I added another line after committing the file.
